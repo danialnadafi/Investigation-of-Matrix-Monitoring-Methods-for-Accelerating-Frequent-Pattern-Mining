@@ -159,10 +159,8 @@ This project highlights that:
 ```text
 .
 ├── CDM_1_Final.ipynb
-├── CDM__1.pdf
 ├── data/
 │   └── Online Retail.csv
-├── requirements.txt
 └── README.md
 ```
 
